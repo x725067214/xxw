@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        url: jdbc:log4jdbc:mysql://rm-wz9wj6n37663x38sjo.mysql.rds.aliyuncs.com/xs_template?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true
+        username: shuttle_common
+        password: Xiaosuo2017
+        driver-class-name: net.sf.log4jdbc.DriverSpy
